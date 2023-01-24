@@ -11,7 +11,7 @@ There are two function is their in class:
 res.get_response()  #calling function for one time response of all urls
 
 2 - Second is for gettting response time multiple times and save the data into multi_response json file.
-# res.multiple_response(3) #calling function for multiple time response of all urls
+res.multiple_response(3) #calling function for multiple time response of all urls
 while calling the second function pass the number to get the response that numbers of time.
 
 

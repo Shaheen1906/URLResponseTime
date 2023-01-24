@@ -1,0 +1,20 @@
+{
+  "urls": [
+    {
+      "name": "https://www.google.com",
+      "response_time": 0.679282
+    },
+    {
+      "name": "https://www.yahoo.com",
+      "response_time": 0.60947
+    },
+    {
+      "name": "https://github.com/Shaheen1906",
+      "response_time": 0.049064
+    },
+    {
+      "name": "https://web.whatsapp.com",
+      "response_time": 0.339417
+    }
+  ]
+}

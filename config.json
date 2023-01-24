@@ -1,0 +1,16 @@
+{
+    "urls": [
+        {
+            "name": "https://www.google.com"
+        },
+        {
+            "name": "https://www.yahoo.com"
+        },
+        {
+            "name": "https://github.com/Shaheen1906"
+        },
+        {
+            "name": "https://web.whatsapp.com"
+        }  
+    ]
+}
